@@ -1,4 +1,4 @@
-<h3>Stack</h3>
+<h3>Skills</h3>
 <a href="#" title="Python"><img src="https://github.com/marubadtz/marubadtz/blob/main/icons/python.svg" alt="Python" width="31px" height="31px"></a>
 <a href="#" title="Linux"><img src="https://github.com/marubadtz/marubadtz/blob/main/icons/linux-tux.svg" alt="Linux" width="31px" height="31px"></a>
 <a href="#" title="PostgreSQL"><img src="https://github.com/marubadtz/marubadtz/blob/main/icons/postgresql.svg" alt="PostgreSQL" width="31px" height="31px"></a>
