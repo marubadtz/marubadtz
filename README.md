@@ -22,5 +22,6 @@
 
 <h3>Badges</h3>
 <a href="https://www.credly.com/earner/earned/badge/0e6cce8d-acbf-46ce-9d48-7749743a2fcb", title="Data Engineering Professional Certificate"><img src="https://github.com/marubadtz/marubadtz/blob/main/img/ibm_de_cert.png" alt="DE Certificate" width="100px" height="100px"></a>
+<a href="https://www.credly.com/badges/b7e0b5ed-f894-4533-be3c-d30cb7c74b82", title="Google Data Analytics Certificate"><img src="https://github.com/marubadtz/marubadtz/blob/main/img/GCC_DA_cert.png" alt="DA Certificate" width="100px" height="100px"></a>
 <a href="https://www.credly.com/earner/earned/badge/4e666b7a-0f69-49db-b4af-91c13d35b597", title="Docker Essentials: A Developer Introduction"><img src="https://github.com/marubadtz/marubadtz/blob/main/img/docker_ess_badge.png" alt="Docker" width="100px" height="100px"></a>
 <a href="https://www.credly.com/earner/earned/badge/3815dd23-f047-4e99-8305-a0494dfa0e68", title="Spark - Level 1"><img src="https://github.com/marubadtz/marubadtz/blob/main/img/spark_l1_badge.png" alt="Spark L1" width="100px" height="100px"></a>
